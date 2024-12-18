@@ -16,7 +16,7 @@ Comment/revision:
 # Class should be in separate file: /
 # bulk deletion: /
 # decorators for the url endpoint: /
-# save it to a database or json file
+# save it to a database or json file: saved to JSON file /
 """
 
 def read_file():
